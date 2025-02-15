@@ -29,7 +29,7 @@ The time is displayed on a 16x2 LCD in MM:SS format. User interaction is provide
 
 ### Hardware
 
-- PIC Microcontroller (e.g., PIC16F877A or another compatible device).
+- PIC Microcontroller (PIC16F877A).
 - 16x2 LCD Display.
 - Push buttons for user input.
 - LED and buzzer.
@@ -46,12 +46,12 @@ The time is displayed on a 16x2 LCD in MM:SS format. User interaction is provide
 ## How to Use
 
 1. **Proteus Simulation:**
-   - Open the Proteus project (e.g., `.DSN` or `.PRO` file).
+   - Open the Proteus project (`.DSN` file).
    - Verify the circuit connections (LCD, buttons, LED, buzzer, and microcontroller).
    - Run the simulation to test the timer/stopwatch functionality.
 
 2. **Compilation and Programming:**
    - Open the project in MPLAB IDE.
    - Ensure the HI-TECH C Compiler is configured correctly.
-   - Compile the source code (`main.c`).
+   - Compile the source code (`temporizador.c`).
    - Program the microcontroller using an appropriate programmer (e.g., PICkit).
