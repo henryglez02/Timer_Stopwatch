@@ -1,0 +1,22 @@
+_ISR: CODE, 936 0 79
+_displayTime: CODE, 776 0 80
+_displayState: CODE, 1015 0 77
+_WriteCommandToLCD: CODE, 1395 0 45
+_main: CODE, 1226 0 58
+_StopTimer1: CODE, 1646 0 7
+_WriteStringToLCD: CODE, 1440 0 44
+___lwdiv: CODE, 856 0 80
+_CheckBusyLCD: CODE, 1607 0 16
+_StartTimer1: CODE, 1623 0 13
+_InitLCD: CODE, 637 0 139
+_WriteDataToLCD: CODE, 1340 0 55
+_isdigit: CODE, 1551 0 21
+_sprintf: CODE, 21 0 448
+_ClearLCD: CODE, 1528 0 23
+___lwmod: CODE, 1092 0 70
+_ToggleEpinOfLCD: CODE, 1590 0 17
+___wmul: CODE, 1484 0 44
+_checkButtons: CODE, 469 0 168
+_SetPosLCD: CODE, 1572 0 18
+_ReadBusyFlagLCD: CODE, 1284 0 56
+Total: 1558
